@@ -41,3 +41,6 @@ multi_seed_output.txt
 # Session
 .claude/
 .autoresearch/
+
+# Python
+__pycache__/
